@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Geekbuying-Clone**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Aspiring MERN Developer**
 
 - 💬 Ask me about **HTML CSS JS REACT NODEJS MONGODB**
 
