@@ -1,5 +1,5 @@
  
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
+<img src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif" >
 
 <h1 align="center">Hi 👋, I'm Pravin Mohite</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
