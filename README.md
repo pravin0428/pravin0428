@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohite461998@gmail.com**
 
-- <a href="pravin0428.github.io">Portfolio</a> 
+- <h5>Portfolio : <a href="https://pravin0428.github.io/">https://pravin0428.github.io/</a>  </h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
