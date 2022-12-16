@@ -66,7 +66,7 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=pravin0428&show_icons=true&theme=cobalt" alt="pravin's Language stats" /> | [![Pravin Mohite's github activity graph](https://activity-graph.herokuapp.com/graph?username=pravin0428&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/pravin0428/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=pravin0428&show_icons=true&theme=cobalt" alt="pravin's Language stats" /> | <p align="center"> <a href="https://github.com/pravin0428"><img src="https://github-profile-trophy.vercel.app/?username=pravin0428&margin-w=5&theme=radical" alt="pravin0428" /></a> </p> |
 
 
 
