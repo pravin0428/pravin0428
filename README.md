@@ -25,9 +25,9 @@
   <a href="https://pravin0428.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://pravin0428.github.io/" />
     </a>
-    <a title="mohite461998@gmail.com" href="mailto:mohite461998@gmail.com">
+<!--     <a title="mohite461998@gmail.com" href="mailto:mohite461998@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohite461998@gmail.com" />
-    </a>
+    </a> -->
     <a href="https://codesandbox.io/dashboard/recent?workspace=537e0cca-6a97-4e02-9eca-7e1e28ff7a8b">
         <img align="center" width="100px" height="28px" src="https://tse2.mm.bing.net/th?id=OIP.LhtS890OE2TdNNdS4EWsiwHaCs&pid=Api&P=0" alt="https://codesandbox.io/dashboard/recent?workspace=537e0cca-6a97-4e02-9eca-7e1e28ff7a8b" />
     </a>
