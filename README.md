@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **mohite461998@gmail.com**
 
+- 📫 Location **Maharashtra-Dhule**
+
 - <h5>Portfolio : <a href="https://pravin0428.github.io/">https://pravin0428.github.io/</a>  </h5>
 - <h5>Resume : <a href="https://drive.google.com/file/d/1mbjKLsqqQWV12ZTEy7g5OMC-pFPPujRf/view?usp=share_link">Pravin-Mohite</a>  </h5>
 
