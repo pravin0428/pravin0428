@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin Mohite</h1>
-<h3 align="center">A passionate full-stack web developer from India</h3>
+<h3 align="center">Detail-oriented and highly adaptable full-stack web developer with a proven track record of excelling in self-driven and collaborative environments, boasting 6 months of hands-on experience in developing cutting-edge web applications using the MERN stack. Proficient in both front-end and back-end technologies, I am skilled in problem-solving and thrive in dynamic work settings. Eager to contribute my expertise to innovative web projects at a forward-thinking company, drawing upon my 6 months of valuable industry experience to deliver exceptional results.</h3>
 <img src="https://dailyillini.com/wp-content/uploads/2017/04/arm-orange-4-01-Recovered.gif" >
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
